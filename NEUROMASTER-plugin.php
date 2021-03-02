@@ -10,7 +10,6 @@ Version 1.0.0
 Author: NEUROMASTER
 Licence GPLv2 or later
 Text Domain: NEUROMASTER-plugin
-
 */
 
 /*
